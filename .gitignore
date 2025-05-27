@@ -60,10 +60,10 @@ env.bak/
 venv.bak/
 
 # Static files #
-staticfiles/
-!staticfiles/css/
-!staticfiles/js/
-!staticfiles/images/
+#staticfiles/
+#!staticfiles/css/
+#!staticfiles/js/
+#!staticfiles/images/
 
 # VS Code #
 .vscode/
