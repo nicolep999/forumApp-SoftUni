@@ -67,3 +67,4 @@ staticfiles/
 
 # VS Code #
 .vscode/
+.idea
